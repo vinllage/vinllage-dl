@@ -1,0 +1,12 @@
+names:
+  - can
+  - glass
+  - paper
+  - plastic
+  - recycle
+  - sticker
+  - vinyl
+path: merged_can_union
+test: test\images
+train: train\images
+val: valid\images
